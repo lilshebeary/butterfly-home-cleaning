@@ -1,0 +1,33 @@
+.about-container {
+    height: 90vh;
+    margin: 5rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10rem;
+    
+}
+.wrapper {
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #545454;
+    font-family: 'Crushed', cursive;
+}
+h1 {
+    font-size: 5rem;
+}
+.about-wrapper {
+    color: #545454;
+    font-family: 'Crushed', cursive;
+}
+h3 {
+    font-size: 3rem;
+}
+p {
+    font-size: 2rem;
+}
+li {
+    font-size: 2rem;
+}

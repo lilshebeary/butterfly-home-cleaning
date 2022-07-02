@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 95vh;
+    background-color: #EEEDE8;
+    width: 95vw;
+}
+img {
+    height: 40vh;
+    width: 70vw;
+    margin-top: 0;
+    margin-bottom: 2rem;;
+}
+
+.title {
+    color: #545454;
+    font-family: 'Crushed', cursive;
+}
+.title-container {
+  
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+.title-num {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-size: 5rem;
+  
+}
+
+h2 {
+
+    font-size: 3rem;  
+}
+
+p {
+    font-size: 2rem;
+}
+hr {
+    margin-top: 2rem;
+}

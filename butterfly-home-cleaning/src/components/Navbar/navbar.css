@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #EEEDE8;
+    height: 3rem;
+}
+.nav-menu {
+    /* margin-top: 2rem; */
+}
+.nav-bottom {
+    margin-bottom: 1rem;;
+}
+.nav-links {
+    color: #545454;
+    font-family: 'Crushed', cursive;
+    font-size: 2rem;
+}
+hr {
+    color: #545454;
+    margin-top: 1rem;
+}
