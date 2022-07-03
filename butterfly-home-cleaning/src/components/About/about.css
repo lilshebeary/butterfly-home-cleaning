@@ -1,5 +1,5 @@
 .about-container {
-    height: 90vh;
+    height: 85vh;
     margin: 5rem;
     display: flex;
     align-items: center;
@@ -19,6 +19,8 @@ h1 {
     font-size: 5rem;
 }
 .about-wrapper {
+    display: flex;
+    flex-direction: column;
     color: #545454;
     font-family: 'Crushed', cursive;
 }
@@ -30,4 +32,27 @@ p {
 }
 li {
     font-size: 2rem;
+}
+.about-table {
+    display: flex;
+    background-color: #f4f8f9;
+}
+.about-list li {
+    margin-top: 2rem;
+    align-items: center;
+    justify-content: center;
+  
+}
+.butterfly {
+    height: 12rem;
+    width: 12rem;
+    margin-right: 6rem;
+    margin-top: 15rem;
+}
+.contact {
+    margin-top: 1rem;
+    font-size: 2rem;
+    color: #545454;
+    font-family: 'Crushed', cursive;
+    word-spacing: 5pt;
 }

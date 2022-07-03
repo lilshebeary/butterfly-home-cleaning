@@ -1,6 +1,9 @@
 .navbar {
     background-color: #EEEDE8;
     height: 3rem;
+    /* width: 98vw; */
+    margin-left: 35px;
+    margin-right: 35px;
 }
 .nav-menu {
     /* margin-top: 2rem; */
@@ -16,4 +19,5 @@
 hr {
     color: #545454;
     margin-top: 1rem;
+    width: 98vw;
 }

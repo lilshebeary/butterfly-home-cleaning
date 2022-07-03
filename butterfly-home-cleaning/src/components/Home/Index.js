@@ -13,15 +13,17 @@ const Home = () => {
         <div className='title-container'>
           <h1 className='title'>BUTTERFLY</h1>
           <br />
-          <h2 className='title'>ECO-FRIENDLY HOME CLEANING</h2>
+          <h2 className='title'>ENVIRONMENTALLY-FRIENDLY HOME CLEANING</h2>
         </div>
         <div className='title-num'>
-          <p className='title'> (503) 719-3044 </p>
-         
+          <p className='title'>SERVING TACOMA  |  GIG HARBOR (503) 719-3044</p> 
         </div>
-        <hr />
+        <div className='hr'>
+          <hr id='hr-container'/>
+        </div>
+       
     </div>
   )
 }
 
-export default Home
+export default Home;

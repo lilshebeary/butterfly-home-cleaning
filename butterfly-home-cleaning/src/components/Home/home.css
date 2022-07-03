@@ -2,14 +2,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 95vh;
+    height: 90vh;
     background-color: #EEEDE8;
-    width: 95vw;
+    /* width: 98vw; */
+    margin-right: 35px;
+    margin-left: 35px;
 }
 img {
-    height: 40vh;
-    width: 70vw;
-    margin-top: 0;
+    height: 35vh;
+    width: 60vw;
+    margin-top: 7rem;
     margin-bottom: 2rem;;
 }
 
@@ -23,7 +25,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
 }
 .title-num {
     display: flex;
@@ -43,6 +45,7 @@ h2 {
 p {
     font-size: 2rem;
 }
-hr {
+hr #hr .hr-container {
     margin-top: 2rem;
+    width: 30rem important!;
 }
