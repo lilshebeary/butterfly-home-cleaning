@@ -2,17 +2,13 @@
     display: flex;
     background-color: #EEEDE8;
     height: 3rem;
-    /* width: 98vw; */
-    margin-left: 35px;
-    margin-right: 35px;
-    margin-top: 10px;
+    margin: 10px 35px 0 35px;
     justify-content: center;
-   max-width: 84vw;
-    
+    max-width: 90%;
 }
 .nav-menu {
     margin-top: 2rem;
-    height: 4rem;
+
     
 }
 .nav-bottom {
