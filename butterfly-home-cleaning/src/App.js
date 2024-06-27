@@ -3,6 +3,8 @@ import './app.css'
 import Home from './components/Home/Index';
 import Navbar from './components/Navbar';
 import About from './components/About';
+import { Switch, Route } from 'react-router-dom'
+
 
 const App = () => {
   return (
@@ -14,4 +16,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;

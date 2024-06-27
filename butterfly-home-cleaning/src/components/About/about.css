@@ -1,5 +1,5 @@
 .about-container {
-    height: 85vh;
+    height: 100vh;
     margin: 5rem;
     display: flex;
     align-items: center;
@@ -16,7 +16,8 @@
     font-family: 'Crushed', cursive;
 }
 h1 {
-    font-size: 5rem;
+    font-size: 4rem;
+    margin-top: 1rem;
 }
 .about-wrapper {
     display: flex;

@@ -11,14 +11,14 @@ const Home = () => {
           alt='Butterfly Home Cleanig image of butterfly logo' 
         />
         <div className='title-container'>
-          <h1 className='title'>BUTTERFLY</h1>
+          <h1 className='title'>BUTTERFLY HOME & CONSTRUCTION CLEANING</h1>
           <br />
-          <h2 className='title'>ENVIRONMENTALLY-FRIENDLY HOME CLEANING</h2>
+          <h2 className='title-2'>ENVIRONMENTALLY-FRIENDLY </h2>
         </div>
         <div className='title-num'>
-          <p className='title'>SERVING TACOMA  |  GIG HARBOR (503) 719-3044</p> 
+          <p className='title'>SERVING GREATER SEATTLE AREA   |   (503) 719-3044</p> 
         </div>
-        <div className='hr'>
+        <div className='hr-container'>
           <hr id='hr-container'/>
         </div>
        

@@ -8,13 +8,13 @@ const About = () => {
         <h1>ABOUT</h1>
       </div>
       <div className="about-wrapper">
-        <h3>Eco-FRIENDLY HOME CLEANING</h3>
+        <h3>Eco-FRIENDLY HOME AND CONSTRUCTION CLEANING</h3>
         <br />
         <p>
-          YEARS OF EXPERIENCE, DETAIL ORIENTED, HOME CLEANING. WE USE NON-TOXIC,
+          YEARS OF EXPERIENCE, DETAIL ORIENTED, HOME AND CONSTRUCTION CLEANING. WE USE NON-TOXIC,
           ENVIRONMENTALLY-FRIENDLY CLEANING PRODUCTS
         </p>
-        <br />
+ 
         <div className="about-table">
           <ul className="about-list">
             <li>HOME CLEANING - WEEKLY, BI-WEEKLY, MONTHLY, ONE TIME</li>
@@ -28,7 +28,7 @@ const About = () => {
           </div>
         </div>
       </div>
-      <div className="contact">PLEASE CONTACT US AT (503)719-3044 FOR A CONSULTATION</div>
+      <div className="contact">PLEASE CONTACT US @ (503)719-3044 FOR A CONSULTATION</div>
     </div>
   );
 };

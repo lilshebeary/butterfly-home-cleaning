@@ -1,23 +1,39 @@
 .navbar {
+    display: flex;
     background-color: #EEEDE8;
     height: 3rem;
     /* width: 98vw; */
     margin-left: 35px;
     margin-right: 35px;
+    margin-top: 10px;
+    justify-content: center;
+   max-width: 84vw;
+    
 }
 .nav-menu {
-    /* margin-top: 2rem; */
+    margin-top: 2rem;
+    height: 4rem;
+    
 }
 .nav-bottom {
-    margin-bottom: 1rem;;
+    margin-bottom: 1rem;
+   
 }
 .nav-links {
     color: #545454;
     font-family: 'Crushed', cursive;
     font-size: 2rem;
+    list-style-type: none;
+
 }
+.nav-items {
+    height: 3rem;
+}
+   
 hr {
     color: #545454;
-    margin-top: 1rem;
-    width: 98vw;
+   align-self: center;
+   justify-self: center;
+    width: 80vw;
+    margin-top: 2rem;
 }
